@@ -13,7 +13,7 @@
 
 ### 🚀 Projects
 - [Sticky Notes App](#) (Replace `#` with your project link)
-- [Portfolio Website](#)
+- [Portfolio Website](https://dazzling-lily-a4f196.netlify.app/)
 
 ### 📫 Connect with me
 - 🌐 GitHub: [zaara2910](https://github.com/zaara2910)
