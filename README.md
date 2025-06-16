@@ -12,7 +12,8 @@
 - Tailwind 
 
 ### 🚀 Projects
-- [Sticky Notes App](#) (Replace `#` with your project link)
+- [Sticky Notes App](https://sticky789.netlify.app/)
+   
 - [Portfolio Website](https://dazzling-lily-a4f196.netlify.app/)
 
 ### 📫 Connect with me
